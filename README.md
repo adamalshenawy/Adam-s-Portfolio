@@ -9,10 +9,9 @@ I specialize in transforming raw data into actionable insights using **Power BI,
 
 ## About Me
 
-- Business Information Systems student at **Galala University**
+- Business Information Systems Graduate
 - Passionate about **Data Analytics, Business Intelligence, and AI Automation**
 - Experienced in building **interactive dashboards and automated solutions**
-- Interested in working with global companies like **Amazon, PwC, and P&G**
 
 ---
 
@@ -29,6 +28,11 @@ I specialize in transforming raw data into actionable insights using **Power BI,
 - Python
 - API Integration
 
+**Automation**
+- n8n
+- manychat
+- make
+
 **Business & Analytics**
 - Business Intelligence
 - Dashboard Design
@@ -42,7 +46,6 @@ I specialize in transforming raw data into actionable insights using **Power BI,
 ### Banking System KPI Dashboard
 A Power BI dashboard that analyzes banking performance using key KPIs.
 
-**Tools:** Power BI, Excel  
 **KPIs Included:**
 - Customer Retention Rate
 - Loan Approval Rate
@@ -60,7 +63,6 @@ A dashboard that tracks the performance of sales agents across different sales s
 - Gap identification between stages
 - Agent performance comparison
 
-**Tools:** Power BI, DAX
 
 ---
 
@@ -76,11 +78,11 @@ An AI-powered simulation tool that trains sales agents through realistic client 
 
 ## Contact
 
-- LinkedIn: *(Add your LinkedIn link here)*
-- Email: *(Add your email)*
+- LinkedIn: https://www.linkedin.com/in/adam-alshenawy-600b41267/
+- Email: adamalshenawy0@gmail.com
 
 ---
 
 ## Portfolio Goal
 
-My goal is to build **high-quality data solutions that help businesses make better decisions through data.**
+My goal is to build **high-quality data solutions that help businesses make better decisions through data & automation.**
